@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joboa
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React and Django
+- 🌱 I’m currently learning React and Flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via joboa2015@gmail.com
 
