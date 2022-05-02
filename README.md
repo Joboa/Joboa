@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joboa
 - 👀 I’m interested in Web development and Blockhain
-- 🌱 I’m currently learning Solidity, Node.js and React
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via joboa2015@gmail.com
 
