@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joboa
-- 👀 I’m interested in Web development and Blockhain
+- 👀 I’m interested in Web development and Blockchain
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via joboa2015@gmail.com
