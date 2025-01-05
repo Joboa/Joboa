@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Joboa
-- 👀 I’m interested in Web development and Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Joboa [contact: joboa2015@gmail.com] 👋
+- 👀 I’m interested in Web Development, Machine Learning, Deep Learning, Mathematics and Fluid Mechanics
+- 🌱 Languages (Proficient): Python, Javascript, MATLAB | Libraries: Django, Pytorch, Scikit-learn, React, Pandas, Numpy, PIVLAB
+- 🌱 Languages (Familiar): Go, C++ | Libraries: OpenFOAM, TensorFlow, ExpressJs
+- 🌱 Databases: PostgreSQL, Redis
+- 🌱 Tools and Infrastructure: Git, GitHub
+- 💞️ Additional skills: Technical writing and Research
 - 📫 You can reach me via joboa2015@gmail.com
 
 <!---
